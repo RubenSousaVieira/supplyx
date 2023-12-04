@@ -14,4 +14,3 @@ volumes:
   mysql-data:
     driver: local
  11 changes: 11 additions & 0 deletions11  
-my.cnf
